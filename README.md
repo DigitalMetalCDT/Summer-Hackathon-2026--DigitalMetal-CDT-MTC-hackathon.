@@ -31,4 +31,4 @@ monitoring data to defect detection and quality assurance.
 
 # Streamlit Demo
 
-
+https://github.com/user-attachments/assets/5ffaa781-9edf-4263-b905-8bfda50a2876
